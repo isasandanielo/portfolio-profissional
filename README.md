@@ -41,6 +41,7 @@ Janeiro/2024 – Março/2025
 
 **Em desenvolvimento**
 - Python
+- SQL
 
 **Concluído**
 - Pacote Office
